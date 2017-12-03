@@ -1,3 +1,5 @@
 struct exampleSPM {
-    var text = "Hello, World!"
+    public var text = "Hello, example!"
+
+    public init() {}
 }
